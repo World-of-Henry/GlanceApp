@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Glance Mobile</string>
+    <string name="error_loading">No se pudo cargar el dashboard</string>
+    <string name="retry">Reintentar</string>
+</resources>
